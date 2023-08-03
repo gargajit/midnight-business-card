@@ -2,13 +2,13 @@
 
 -- ds.page: My Business Card
 
--- midnight-business-card.details: John Doe
-company-name: John Doe Pvt. Ltd.
-title: Software Developer
+-- midnight-business-card.details: Ajit Garg
+company-name: FifthTry Pvt. Ltd.
+title: DevRel
 phone-no: +91 12345 99999
-email: john@johndoe.com
+email: ajit@fifthtry.com
 address: 123, Block No. A-123, Times Square, Bangalore - 123456
 logo: $assets.files.assets.fastn-logo.svg
-website: www.johndoe.com
+website: www.ajitgarg.com
 
 -- end: ds.page
